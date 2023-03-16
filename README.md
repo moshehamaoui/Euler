@@ -5,6 +5,6 @@ Project Euler (named after Leonhard Euler) is a website dedicated to a series of
 
 Link to the site: https://projecteuler.net/ 
 
-The files in this repo are my solutions to the first 15 problems.
+The files in this repo are my solutions to the first 16 problems.
 
 As of 1/1/2023, there are a total of 814 problems on record.
